@@ -17,7 +17,7 @@ This project leverages computer vision and hand gesture recognition to develop a
 1. Download the source code or clone the repository.
 2. Install the necessary Python libraries as outlined in the requirements.
 3. Connect a webcam to your computer.
-4. Run the `virtual_mouse.py` script.
+4. Run the `aimouse.py` script.
 5. A window will open, displaying the webcam feed along with hand landmarks and the corresponding cursor movements.
 
 **Customization Options:**
